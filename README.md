@@ -1,6 +1,6 @@
 # OCR Pipeline for Historical Documents
 
-**RenAIssance Project - Google Summer of Code Evaluation**
+**RenAIssance Project**
 
 A complete end-to-end OCR pipeline for printed historical documents combining traditional OCR with LLM-based post-correction.
 
@@ -159,20 +159,4 @@ This pipeline is designed for the **RenAIssance project** evaluation, demonstrat
 - [TrOCR Paper](https://arxiv.org/abs/2109.10282)
 - [Character Error Rate](https://en.wikipedia.org/wiki/Word_error_rate)
 
-## 👤 Author
 
-**Your Name**  
-Google Summer of Code Applicant  
-RenAIssance Project
-
-## 📄 License
-
-MIT License - See LICENSE file for details
-
-## 🤝 Contributing
-
-This is an evaluation project for GSoC. For questions or suggestions, please open an issue.
-
----
-
-**Note**: This is a prototype for educational and evaluation purposes. For production use, consider additional optimizations and error handling.
